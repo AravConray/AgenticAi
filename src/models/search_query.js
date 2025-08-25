@@ -1,0 +1,1 @@
+// src/models/search_query.js

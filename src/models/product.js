@@ -1,0 +1,1 @@
+// src/models/product.js
